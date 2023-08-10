@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master's student at Northeastern University, China, interested in various DL/CV topics from low-level to high-level vision. Lately, I've been focusing on label-efficient learning and semantic segmentation.
+I'm a master's student at Nanjing University, China, interested in various CV/CP(Computational Photography) topics including computational spectral cameras, image super-resolution and camera-based vision application. Lately, I've been focusing on MegaPixel Snapshot SWIR Camera and Hyperspectral Images Intrinsic Decomposition.
 
-[Email](wangchangqi98@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=uwIyOQ8AAAAJ) / [Github](https://github.com/WangChangqi98)
+[Email](shizhcv@gmail.com) / [Github](https://github.com/azhan-99/)
 
-<font color=red><b>I am currently seeking a Ph.D. position!</b></font>
+# <font color=red><b>I am currently seeking a Ph.D. position!</b></font>
 
 # 🔥 News
 - *2023.07*: <font color=red>One papers accepted to ICCV 2023!</font>
-- *2022.12*: <font color=blue>I’m excited to start my internship at MMLab!</font> 
-- *2022.11*: <font color=red>One paper accepted to AAAI 2023!</font>
+# - *2022.12*: <font color=blue>I’m excited to start my internship at MMLab!</font> 
+- *2023.06*: <font color=red>One paper accepted to ICCP 2023!</font>
 
 
 # 📝 Publications 
