@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Changqi Wang"
+title                    : "Zhan Shi"
 description              : "Hello and nice to meet you!"
-repository               : "WangChangqi98"
-google_scholar_stats_use_cdn : true
+repository               : "shizhan1999"
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Changqi Wang"
+  name             : "Zhan Shi"
   avatar           : "images/profile.png"
   bio              : "Northeastern University"
   location         : "Shenyang/ Ningbo"
