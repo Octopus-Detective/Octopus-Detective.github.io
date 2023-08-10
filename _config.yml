@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhan Shi"
-  avatar           : "images/profile.jpg"
-  bio              : "Northeastern University"
-  location         : "Shenyang/ Ningbo"
+  avatar           : "images/profile2.jpg"
+  bio              : "Nanjing University"
+  location         : "Nanjing, China."
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=uwIyOQ8AAAAJ"
-  email            : "wangchangqi98@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : # "https://scholar.google.com.hk/citations?user=uwIyOQ8AAAAJ"
+  email            : "shizhcv@gmail.com"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Wangchangqi98" # e.g., "github username"
+  github           : # "https://github.com/Wangchangqi98" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
