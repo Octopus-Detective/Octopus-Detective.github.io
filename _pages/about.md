@@ -31,7 +31,7 @@ Prior to <font color="#6A005F"><b>NJU</b></font>, I received my B.S. degree from
 
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/iccp2023.gif' alt="sym" width="300px" height='300px'></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/iccp2023.gif' alt="sym" width="300px" height='300px'></div>
 </div>
 <div class='paper-box-text' markdown="1">
   
@@ -46,7 +46,7 @@ International Conference on Computational Photography (ICCP) 2023.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/iccv2023.png' alt="sym" width="300px" height='300px'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/iccv2023.png' alt="sym" width="300px" height='300px'></div></div>
 <div class='paper-box-text' markdown="1">
   
 <b>Aperture Diffraction for Compact Snapshot Spectral Imaging</b>
