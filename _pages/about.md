@@ -27,7 +27,7 @@ Prior to <font color="#6A005F"><b>NJU</b></font>, I received my B.S. degree from
 # 🔥 News
 - *2023.07*: <font color=red>One paper accepted to ICCV 2023!</font>
 - *2023.06*: <font color=red>One paper accepted to ICCP 2023!</font>
-- *2023.05*: <font color=blue>One paper(invited) accepted to Journal of Signal Processing!</font>
+- *2023.05*: <font color=blue>One paper(Invited Review) accepted to Journal of Signal Processing!</font>
 
 
 # 📝 Publications
@@ -39,7 +39,8 @@ Prior to <font color="#6A005F"><b>NJU</b></font>, I received my B.S. degree from
 
 International Conference on Computational Photography (ICCP) 2023.
   
-  
+[[paper]([])][[code]()]
+
 <u>Zhan Shi</u>, Hao Ye, Tao Lv, Yibo Wang, Xun Cao
 
 </div>
@@ -48,7 +49,7 @@ International Conference on Computational Photography (ICCP) 2023.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/iccv2023.png' alt="sym" width="300px" height='300px'></div></div>
 <div class='paper-box-text' markdown="1">
   
-<b>Space Aperture Diffraction for Compact Snapshot Spectral Imaging</b>
+<b>Aperture Diffraction for Compact Snapshot Spectral Imaging</b>
 
 International Conference on Computer Vision (ICCV) 2023.
 
@@ -59,17 +60,17 @@ Tao Lv, Hao Ye, Quan Yuan, <u>Zhan Shi</u>, Yibo Wang, Shuming Wang, Xun Cao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/PRCL.png' alt="sym" width="300px" height='300px'></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/jsp.jpg' alt="sym" width="300px" height='300px'></div>
 </div>
 <div class='paper-box-text' markdown="1">
   
-<b>Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations</b>
+<b>Optical Signal Acquisition Methods in Combustion Diagnosis Technology</b>
 
-AAAI Conference on Artificial Intelligence (AAAI Oral), 2023.
+Journal of Signal Processing (Invited Review), 2023.
   
-[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25396)][[code](https://github.com/Haoyu-Xie/PRCL)]
+[[paper](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD66BKt2WITxxxAN4jxOnN7kaQA648RTn66SAQA9HMDy1is4fM6492cs6&uniplatform=NZKPT)] in collaboration with Shanghai Jiao Tong University and Tsinghua University 
   
-Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
+Lijing Cai, Weiwei Cai,<u>Zhan Shi</u>, Xing Chao, Xun Cao
 
 </div>
 </div>
