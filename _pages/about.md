@@ -1,4 +1,4 @@
-![image](https://github.com/azhan-99/azhan-99.github.io/assets/92512411/981a9493-eb0f-45d9-bd45-ea6824aeffac)---
+---
 permalink: /
 title: ""
 excerpt: ""
