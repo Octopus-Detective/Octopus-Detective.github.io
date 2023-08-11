@@ -49,7 +49,7 @@ International Conference on Computational Photography (ICCP) 2023.
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/iccv2023.png' alt="sym" width="300px" height='300px'></div></div>
 <div class='paper-box-text' markdown="1">
   
-<b>Aperture Diffraction for Compact Snapshot Spectral Imaging</b>
+<b>ADIS: Aperture Diffraction for Compact Snapshot Spectral Imaging</b>
 
 International Conference on Computer Vision (ICCV) 2023.
 
