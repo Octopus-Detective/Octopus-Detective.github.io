@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master's student at the [School of Electronic Sceience and Engineering](https://ese.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/). I'm a member of [CITE (Lab for Computational Imaging Technology & Engineering)](https://cite.nju.edu.cn/), superivsed by Prof. [Xun Cao (曹汛)](https://ese.nju.edu.cn/cx/list.htm). I am broadly interested in various CV/CP(Computational Photography) topics including computational spectral cameras, image super-resolution and camera-based vision application. Lately, I've been focusing on MegaPixel Snapshot SWIR Camera and Hyperspectral Images Intrinsic Decomposition.
+I'm a master's student at the [School of Electronic Sceience and Engineering](https://ese.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/). I'm a member of [CITE (Lab for Computational Imaging Technology & Engineering)](https://cite.nju.edu.cn/), superivsed by Prof. [Xun Cao](https://ese.nju.edu.cn/cx/list.htm). I am broadly interested in various CV/CP(Computational Photography) topics including computational spectral cameras, image super-resolution and camera-based vision application. Lately, I've been focusing on MegaPixel Snapshot SWIR Camera and Hyperspectral Images Intrinsic Decomposition.
 
 Prior to <font color="#6A005F"><b>NJU</b></font>, I received my B.S. degree from the [School of Computer Science and Enginerring](http://www.cse.neu.edu.cn/) at [Northeastern University](http://www.neu.edu.cn/).
 
@@ -27,20 +27,20 @@ Prior to <font color="#6A005F"><b>NJU</b></font>, I received my B.S. degree from
 # 🔥 News
 - *2023.07*: <font color=red>One paper accepted to ICCV 2023!</font>
 - *2023.06*: <font color=red>One paper accepted to ICCP 2023!</font>
-- *2023.05*: <font color=blue>One paper(invited) accepted to Journal of Signal Processing(《信号处理》)!</font>
+- *2023.05*: <font color=blue>One paper(invited) accepted to Journal of Signal Processing!</font>
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CSS.png' alt="sym" width="300px" height='300px'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/iccv2023.png' alt="sym" width="300px" height='300px'></div></div>
 <div class='paper-box-text' markdown="1">
   
-<b>Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation</b>
+<b>Space Aperture Diffraction for Compact Snapshot Spectral Imaging</b>
 
 International Conference on Computer Vision (ICCV) 2023.
 
-[[paper]([https://arxiv.org/pdf/2307.09755.pdf])][[code](https://github.com/WangChangqi98/CSS)]
+[[paper]([])][[code]()]
 
-<u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue
+Tao Lv, Hao Ye, Quan Yuan, <u>Zhan Shi</u>, Yibo Wang, Shuming Wang, Xun Cao
 
 </div>
 </div>
