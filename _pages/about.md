@@ -25,9 +25,9 @@ Prior to <font color="#6A005F"><b>NJU</b></font>, I received my B.S. degree from
 
 
 # 🔥 News
-- *2023.07*: <font color=red>One papers accepted to ICCV 2023!</font>
-- *2023.07*: <font color=blue>One papers(invited) published to 《信号处理》!</font>
+- *2023.07*: <font color=red>One paper accepted to ICCV 2023!</font>
 - *2023.06*: <font color=red>One paper accepted to ICCP 2023!</font>
+- *2023.05*: <font color=blue>One paper(invited) accepted to Journal of Signal Processing(《信号处理》)!</font>
 
 
 # 📝 Publications 
