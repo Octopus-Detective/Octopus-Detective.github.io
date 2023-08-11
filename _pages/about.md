@@ -30,7 +30,21 @@ Prior to <font color="#6A005F"><b>NJU</b></font>, I received my B.S. degree from
 - *2023.05*: <font color=blue>One paper(invited) accepted to Journal of Signal Processing!</font>
 
 
-# 📝 Publications 
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/iccp2023.gif' alt="sym" width="300px" height='300px'></div>
+</div>
+<div class='paper-box-text' markdown="1">
+  
+<b>3CS: Compact Self-adaptive Coding for Spectral Compressive Sensing</b>
+
+International Conference on Computational Photography (ICCP) 2023.
+  
+  
+<u>Zhan Shi</u>, Hao Ye, Tao Lv, Yibo Wang, Xun Cao
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/iccv2023.png' alt="sym" width="300px" height='300px'></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -41,20 +55,6 @@ International Conference on Computer Vision (ICCV) 2023.
 [[paper]([])][[code]()]
 
 Tao Lv, Hao Ye, Quan Yuan, <u>Zhan Shi</u>, Yibo Wang, Shuming Wang, Xun Cao
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/PTT.png' alt="sym" width="300px" height='300px'></div>
-</div>
-<div class='paper-box-text' markdown="1">
-  
-<b>PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation</b>
-
-Submitted to International Journal of Computer Vision (IJCV).
-  
-  
-Haoyu Xie, <u>Changqi Wang</u>, Yang Liu, Jun Dan, Chong Fu, Jan Zhao, Baigui Sun
 
 </div>
 </div>
