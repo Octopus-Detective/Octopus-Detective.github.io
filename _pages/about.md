@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# I'm a master's student at the [School of Electronic Sceience and Engineering](https://ese.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/). I'm a member of [CITE (Lab for Computational Imaging Technology & Engineering)](https://cite.nju.edu.cn/), superivsed by Prof. [Xun Cao (曹汛)](https://ese.nju.edu.cn/cx/list.htm). I am broadly interested in various CV/CP(Computational Photography) topics including computational spectral cameras, image super-resolution and camera-based vision application. Lately, I've been focusing on MegaPixel Snapshot SWIR Camera and Hyperspectral Images Intrinsic Decomposition.
+I'm a master's student at the [School of Electronic Sceience and Engineering](https://ese.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/). I'm a member of [CITE (Lab for Computational Imaging Technology & Engineering)](https://cite.nju.edu.cn/), superivsed by Prof. [Xun Cao (曹汛)](https://ese.nju.edu.cn/cx/list.htm). I am broadly interested in various CV/CP(Computational Photography) topics including computational spectral cameras, image super-resolution and camera-based vision application. Lately, I've been focusing on MegaPixel Snapshot SWIR Camera and Hyperspectral Images Intrinsic Decomposition.
 
-Prior to [<font color="#6A005F"><b>NJU</b></font>], I received my B.S. degree from the [School of Computer Science and Enginerring](http://www.cse.neu.edu.cn/) at [Northeastern University](http://www.neu.edu.cn/).
+Prior to <font color="#6A005F"><b>NJU</b></font>, I received my B.S. degree from the [School of Computer Science and Enginerring](http://www.cse.neu.edu.cn/) at [Northeastern University](http://www.neu.edu.cn/).
 
 [Email](shizhcv@gmail.com) / [Github](https://github.com/azhan-99/)
 
 
-
 # 🔥 News
 - *2023.07*: <font color=red>One papers accepted to ICCV 2023!</font>
-- *2022.12*: <font color=blue>I’m excited to start my internship at MMLab!</font> 
 - *2023.06*: <font color=red>One paper accepted to ICCP 2023!</font>
 
 
