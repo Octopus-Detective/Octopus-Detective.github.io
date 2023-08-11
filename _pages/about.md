@@ -60,7 +60,7 @@ Tao Lv, Hao Ye, Quan Yuan, <u>Zhan Shi</u>, Yibo Wang, Shuming Wang, Xun Cao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/JSP.jpg' alt="sym" width="300px" height='300px'></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/JSP.png' alt="sym" width="300px" height='300px'></div>
 </div>
 <div class='paper-box-text' markdown="1">
   
