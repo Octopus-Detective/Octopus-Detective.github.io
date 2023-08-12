@@ -79,14 +79,14 @@ Lijing Cai, Weiwei Cai,<u>Zhan Shi</u>, Xing Chao, Xun Cao
 * *2022.06 - 2023.08 (now)*, at [LightGene Ltd.](https://www.lightgene.com/) as an Algorithm and Hardware System Engineer.
 
 # 🎖 Honors and Awards
-* *2021.12*: National First Prize of China Graduate AI Innovation Competition
-* *2021.09*: First Class Academic Scholarship of Nanjing University
-* *2021.06*: Outstanding Graduate of Northeastern University (Top 10%)
-* *2020.09*: First Class Undergraduate Scholarship of Northeastern University (Top 3.3%)
+* *2021.12*: National 1st Prize of China Graduate AI Innovation Competition
+* *2021.09*: 1st Class Academic Scholarship, Nanjing University
+* *2021.06*: Outstanding Graduate, Northeastern University (Top 10%)
+* *2020.09*: 1st Class Undergraduate Scholarship of Northeastern University (Top 3.3%)
 * *2020.09*: Postgraduate Candidates Exempt from Admission Exam (Top 1)
 * *2020.04*: Meritorious Winner in COMAP MCM/ICM (Mathematical Contest In Modeling)
-* *2019.10*: National Scholarship (Top 1)
-* *2019.08*: Provincial Second Prize in National Electronic Design Competition
+* *2019.10*: National Scholarship, highest scholarship in China (Top 1)
+* *2019.08*: Provincial 2nd Prize in National Electronic Design Competition
 
 # 📖 Educations
 * *2021.09 - now*, M.E., Nanjing University, Nanjing, China
