@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master's student at the [School of Electronic Sceience and Engineering](https://ese.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/). I'm a member of [CITE (Lab for Computational Imaging Technology & Engineering)](https://cite.nju.edu.cn/), superivsed by Prof. [Xun Cao](https://ese.nju.edu.cn/cx/list.htm). I am broadly interested in various CV/CP(Computational Photography) topics including computational spectral cameras, image super-resolution and camera-based vision application. Lately, I've been focusing on MegaPixel Snapshot SWIR Hyperspectral Camera and Hyperspectral Images Intrinsic Decomposition.
+I'm a master's student at the [School of Computer Sceience and Engineering](http://cs.ustc.edu.cn/main.htm) at [University of Science and Tehnology of China](https://www.ustc.edu.cn/). I'm a member of [Ustc Robotics Lab](http://ai.ustc.edu.cn/) and [NERC-SLIP(National Engineering Research Center of Speech and Language Information Processing)](http://nercslip.ustc.edu.cn/main.htm), superivsed by Prof. [Lanfang Dong](http://cs.ustc.edu.cn/2020/0906/c23239a460116/page.htm). 
 
-Prior to <font color="#6A005F"><b>NJU</b></font>, I received my B.S. degree from the [School of Computer Science and Enginerring](http://www.cse.neu.edu.cn/) at [Northeastern University](http://www.neu.edu.cn/).
+Prior to USTC, I received my B.S. degree from the [School of Computer Science and Enginerring](http://www.cse.neu.edu.cn/) at [Northeastern University](http://www.neu.edu.cn/).
 
-[Email](shizhcv@gmail.com) / [Github](https://github.com/azhan-99/)
+[Email]:yhzhang@mail.ustc.edu.cn / [Github]:https://github.com/Octopus-Detective/
 
 
 # 🔥 News
