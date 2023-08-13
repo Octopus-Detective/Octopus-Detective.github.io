@@ -21,7 +21,8 @@ I'm a master's student at the [School of Computer Sceience and Engineering](http
 
 Prior to USTC, I received my B.S. degree from the [School of Computer Science and Enginerring](http://www.cse.neu.edu.cn/) at [Northeastern University](http://www.neu.edu.cn/).
 
-Email: yhzhang@mail.ustc.edu.cn / Github: https://github.com/Octopus-Detective/
+Email: yhzhang@mail.ustc.edu.cn 
+<!-- Github: https://github.com/Octopus-Detective/-->
 
 
 # 🔥 News
