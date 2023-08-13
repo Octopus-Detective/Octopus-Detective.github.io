@@ -25,12 +25,14 @@ Prior to USTC, I received my B.S. degree from the [School of Computer Science an
 
 
 # 🔥 News
+<!--
 - *2023.07*: <font color=red>One paper accepted to ICCV 2023!</font>
 - *2023.06*: <font color=red>One paper accepted to ICCP 2023!</font>
 - *2023.05*: <font color=blue>One paper(Invited Review) accepted to Journal of Signal Processing!</font>
-
+-->
 
 # 📝 Publications
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/iccp2023.gif' alt="sym" width="300px" height='300px'></div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -74,23 +76,17 @@ Lijing Cai, Weiwei Cai,<u>Zhan Shi</u>, Xing Chao, Xun Cao
 
 </div>
 </div>
-
+-->
 # 💻 Professional Experiences
-* *2022.06 - 2023.08 (now)*, at [LightGene Ltd.](https://www.lightgene.com/) as an Algorithm and Hardware System Engineer.
+
 
 # 🎖 Honors and Awards
-* *2021.12*: National 1st Prize of China Graduate AI Innovation Competition
-* *2021.09*: 1st Class Academic Scholarship, Nanjing University
-* *2021.06*: Outstanding Graduate, Northeastern University (Top 10%)
-* *2020.09*: 1st Class Undergraduate Scholarship of Northeastern University (Top 3.3%)
-* *2020.09*: Postgraduate Candidates Exempt from Admission Exam (Top 1)
-* *2020.04*: Meritorious Winner in COMAP MCM/ICM (Mathematical Contest In Modeling)
-* *2019.10*: National Scholarship, highest scholarship in China (Top 1)
-* *2019.08*: Provincial 2nd Prize in National Electronic Design Competition
+* *2022.09*: 1st Class Academic Scholarship, USTC
+* *2022.06*: Outstanding Graduate of Liaoning Province (Top 3%)
 
 # 📖 Educations
-* *2021.09 - now*, M.E., Nanjing University, Nanjing, China
-* *2017.09 - 2021.06*, B.E., Northeastern University, Shenyang, China
+* *2022.09 - now*, M.E., Computer Technology,University of Science and Technology of China, Nanjing, China
+* *2018.09 - 2022.06*, B.E., Computer Science and Technology, Northeastern University, Shenyang, China
 
 
 
