@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master's student at the [School of Computer Sceience and Engineering](http://cs.ustc.edu.cn/main.htm) at [University of Science and Tehnology of China](https://ustc.edu.cn/). I'm a member of [Ustc Robotics Lab](http://ai.ustc.edu.cn/) and [NERC-SLIP(National Engineering Research Center of Speech and Language Information Processing)](http://nercslip.ustc.edu.cn/main.htm), superivsed by Prof. [Lanfang Dong](http://cs.ustc.edu.cn/2020/0906/c23239a460116/page.htm). I am currently broadly interested in Robotics/Computer Vision related topics, including social robotics, facial expression recognition, human-computer interaction, and multimodal affective computing.
+I'm a master student at the [School of Computer Sceience and Engineering](http://cs.ustc.edu.cn/main.htm) at [University of Science and Tehnology of China](https://ustc.edu.cn/). I'm a member of [Ustc Robotics Lab](http://ai.ustc.edu.cn/) and [NERC-SLIP(National Engineering Research Center of Speech and Language Information Processing)](http://nercslip.ustc.edu.cn/main.htm), superivsed by Prof. [Lanfang Dong](http://cs.ustc.edu.cn/2020/0906/c23239a460116/page.htm). I am currently broadly interested in Robotics/Computer Vision related topics, including social robotics, facial expression recognition, human-computer interaction, and multimodal affective computing.
 
 Prior to USTC, I received my B.S. degree from the [School of Computer Science and Enginerring](http://www.cse.neu.edu.cn/) at [Northeastern University](http://www.neu.edu.cn/).
 
