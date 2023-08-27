@@ -78,7 +78,7 @@ Lijing Cai, Weiwei Cai,<u>Zhan Shi</u>, Xing Chao, Xun Cao
 </div>
 </div>
 -->
-# 💻 Professional Experiences
+# 💻 Internships
 
 
 # 🎖 Honors and Awards
@@ -86,7 +86,7 @@ Lijing Cai, Weiwei Cai,<u>Zhan Shi</u>, Xing Chao, Xun Cao
 * *2022.06*: Outstanding Graduate of Liaoning Province (Top 3%)
 
 # 📖 Educations
-* *2022.09 - now*, M.E., Computer Technology,University of Science and Technology of China, Hefei, China
+* *2022.09 - now*, M.E., Computer Technology, University of Science and Technology of China, Hefei, China
 * *2018.09 - 2022.06*, B.E., Computer Science and Technology, Northeastern University, Shenyang, China
 
 
