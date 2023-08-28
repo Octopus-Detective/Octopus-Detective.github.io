@@ -27,14 +27,10 @@ Email: yhzhang@mail.ustc.edu.cn
 
 # 🔥 News
 - <font color=red>I am currently looking for a position for USTC-Cityu Joint PHD! 👀 </font>
-<!--
-- *2023.07*: <font color=red>One paper accepted to ICCV 2023!</font>
-- *2023.06*: <font color=red>One paper accepted to ICCP 2023!</font>
-- *2023.05*: <font color=blue>One paper(Invited Review) accepted to Journal of Signal Processing!</font>
--->
+- *2023.06*: <font color=Blue>One paper accepted to ADMA 2023!</font>
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/cyber1.PNG' alt="sym" width="200px" height='300px'></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/cyber1.PNG' alt="sym" width="300px" height='300px'></div>
 </div>
 <div class='paper-box-text' markdown="1">
   
