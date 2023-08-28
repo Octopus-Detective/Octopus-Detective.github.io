@@ -26,7 +26,7 @@ Email: yhzhang@mail.ustc.edu.cn
 
 
 # 🔥 News
-<font color=red>I am currently looking for a position for USTC-Cityu Joint PHD! 👀 </font>
+- <font color=red>I am currently looking for a position for USTC-Cityu Joint PHD! 👀 </font>
 <!--
 - *2023.07*: <font color=red>One paper accepted to ICCV 2023!</font>
 - *2023.06*: <font color=red>One paper accepted to ICCP 2023!</font>
@@ -92,7 +92,8 @@ Lijing Cai, Weiwei Cai,<u>Zhan Shi</u>, Xing Chao, Xun Cao
 </div>
 -->
 # 💻 Internships
-
+* *2019.09 - 2021.04*, Research Assistant(Guided by Professor [Jinzhu Yang](http://www.cse.neu.edu.cn/2019/0312/c6641a157518/page.htm)), [The Ministry of Education Key Laboratory of Medical Imaging Computing](http://kyy.neu.edu.cn/2020/0410/c7035a167742/page.htm), Shenyang, China
+* *2020.04 - 2021.08*, Research Assistant(Guided by Professor [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/)), [NEU iDC Group ](https://idc-neu.github.io/), Shenyang, China
 
 # 🎖 Honors and Awards
 * *2022.09*: 1st Class Academic Scholarship, USTC
