@@ -34,7 +34,7 @@ Email: yhzhang@mail.ustc.edu.cn
 -->
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/cyber.PNG' alt="sym" width="200px" height='300px'></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/cyber1.PNG' alt="sym" width="200px" height='300px'></div>
 </div>
 <div class='paper-box-text' markdown="1">
   
