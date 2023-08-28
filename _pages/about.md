@@ -26,6 +26,7 @@ Email: yhzhang@mail.ustc.edu.cn
 
 
 # 🔥 News
+<font color=red>👀I am currently looking for a position for USTC-Cityu Joint PHD!</font>
 <!--
 - *2023.07*: <font color=red>One paper accepted to ICCV 2023!</font>
 - *2023.06*: <font color=red>One paper accepted to ICCP 2023!</font>
@@ -33,6 +34,18 @@ Email: yhzhang@mail.ustc.edu.cn
 -->
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/cyber.png' alt="sym" width="200px" height='300px'></div>
+</div>
+<div class='paper-box-text' markdown="1">
+  
+<b>Design and Implementation of a Highly Compatible Intelligent Video Analysis Framework</b>
+
+The 12th Annual IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (IEEE-CYBER 2022).
+
+Yongsheng Chen, Lanfang Dong*, <u> Yuhang Zhang<u>
+
+</div>
+</div>
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/iccp2023.gif' alt="sym" width="300px" height='300px'></div>
 </div>
