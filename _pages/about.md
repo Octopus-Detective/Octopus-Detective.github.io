@@ -30,7 +30,7 @@ Email: yhzhang@mail.ustc.edu.cn
 - *2023.06*: <font color=Blue>One paper accepted to ADMA 2023!</font>
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/cyber1.PNG' alt="sym" width="500px" height='300px'></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/cyber1.PNG' alt="sym" width="350px" height='300px'></div>
 </div>
 <div class='paper-box-text' markdown="1">
   
