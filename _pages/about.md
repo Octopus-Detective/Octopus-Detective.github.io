@@ -26,7 +26,7 @@ Email: yhzhang@mail.ustc.edu.cn
 
 
 # 🔥 News
-- <font color=red>I am currently looking for a position for USTC-Cityu Joint PHD! 👀 </font>
+- <font color=red>I am currently looking for a position for PHD! 👀 </font>
 - *2023.06*: <font color=Blue>One paper accepted to ADMA 2023!</font>
 
 # 📝 Publications
