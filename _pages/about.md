@@ -32,9 +32,9 @@ Email: yhzhang@mail.ustc.edu.cn
 
 # 💻 Internships
 * __*2019.09 - 2021.04*, [The Ministry of Education Key Laboratory of Medical Imaging Computing](http://kyy.neu.edu.cn/2020/0410/c7035a167742/page.htm), Shenyang, China__
-&emsp - Research Assistant(Guided by Professor [Jinzhu Yang](http://www.cse.neu.edu.cn/2019/0312/c6641a157518/page.htm))
+- Research Assistant(Guided by Professor [Jinzhu Yang](http://www.cse.neu.edu.cn/2019/0312/c6641a157518/page.htm))
 * __*2020.04 - 2021.08*, [NEU iDC Group ](https://idc-neu.github.io/), Shenyang, China__
-&emsp - Research Assistant(Guided by Professor [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/))
+- Research Assistant(Guided by Professor [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/))
 
 # 🎖 Honors and Awards
 * *2022.09*: 1st Class Academic Scholarship, USTC
@@ -42,13 +42,13 @@ Email: yhzhang@mail.ustc.edu.cn
 
 # 📖 Educations
 * __*2024.09 - now*, City University of HongKong__
-&emsp - Joint PhD in Computer Science
-&emsp - [Department of Computer Science](https://www.cs.cityu.edu.hk/) 
+  - Joint PhD in Computer Science
+  - [Department of Computer Science](https://www.cs.cityu.edu.hk/) 
 * __*2022.09 - now*,University of Science and Technology of China__
-&emsp - PhD in Computer Science and Technology
-&emsp - [School of Computer Science and Technology](https://www.cs.ustc.edu.cn)
+  - PhD in Computer Science and Technology
+  - [School of Computer Science and Technology](https://www.cs.ustc.edu.cn)
 * __*2018.09 - 2022.06*, Northeastern University__
-&emsp - B.E. in Computer Science and Technology
-&emsp - [School of Computer Science and Engineer](http://www.cse.neu.edu.cn/)
+  - B.E. in Computer Science and Technology
+  - [School of Computer Science and Engineer](http://www.cse.neu.edu.cn/)
 
 
