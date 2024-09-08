@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuhang Zhang"
   avatar           : "images/profile24.jpg"
-  bio              : "PhD Student \n USTC ➕ CityU"
+  bio              : "PhD Student\n USTC ➕ CityU"
   location         : "HongKong, China." 
   employer         : 
   pubmed           : 
   googlescholar    : # ""
-  email            : "yhzhang@mail.ustc.edu.cn"
+  email            : #"yhzhang@mail.ustc.edu.cn"
   researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
