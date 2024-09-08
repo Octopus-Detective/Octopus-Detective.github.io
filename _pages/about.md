@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current joint PhD student majoring in computer science at the [University of Science and Technology of China (USTC)]([www.](https://www.cs.ustc.edu.cn) and [City University of Hong Kong (CityU)](https://www.cs.cityu.edu.hk), co-supervised by [Prof. Qi Song](https://songqi1990.github.io/) and [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/).Also, I'm a member of [Lab for Intelligent Networking and Knowledge Engineering (LINKE)](https://linke.ustc.edu.cn/main.htm). My current research interests are Multimodal Computing and AI4Science, and I was involved in robotics and affective computing for more than a year before turning into a PhD.
+I am a current joint PhD student majoring in computer science at the [University of Science and Technology of China (USTC)]([www.](https://www.cs.ustc.edu.cn) and [City University of Hong Kong (CityU)](https://www.cs.cityu.edu.hk), co-supervised by [Prof. Qi Song](https://songqi1990.github.io/) and [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/). Also, I'm a member of [Lab for Intelligent Networking and Knowledge Engineering (LINKE)](https://linke.ustc.edu.cn/main.htm). My current research interests are Multimodal Computing and AI4Science, and I was involved in robotics and affective computing for more than a year before turning into a PhD.
 
 Prior to USTC, I received my B.S. degree from the [School of Computer Science and Enginerring](http://www.cse.neu.edu.cn/) at [Northeastern University](http://www.neu.edu.cn/).
 
