@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuhang Zhang"
   avatar           : "images/profile24.jpg"
-  bio              : "University of Science and Technology of China, City University of HongKong"
-  location         : "Hefei or HongKong, China."
+  bio              : "USTC & CityU"
+  location         : "🇭🇰HongKong, China."
   employer         :
   pubmed           : 
   googlescholar    : # ""
