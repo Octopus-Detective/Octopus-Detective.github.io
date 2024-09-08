@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuhang Zhang"
   avatar           : "images/profile24.jpg"
-  bio              : "USTC & CityU"
-  location         : "🇭🇰HongKong, China."
-  employer         :
+  bio              : "PhD in Computer Science"
+  location         : "HongKong, China."
+  employer         : "USTC (Co-adviced by CityU)"
   pubmed           : 
   googlescholar    : # ""
   email            : "yhzhang@mail.ustc.edu.cn"
