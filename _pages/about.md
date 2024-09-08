@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a joint PhD of [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn) and [City University of Hong Kong (CityU)](https://www.cityu.edu.hk), co-supervised by [Prof. Qi Song](https://songqi1990.github.io/) and [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/). Also, I'm a member of [Lab for Intelligent Networking and Knowledge Engineering (LINKE)](https://linke.ustc.edu.cn/main.htm). My current research interests are Multimodal Computing and AI4Science, and I was involved in robotics and affective computing for more than a year before turning into a PhD.
 
-Prior to that, I received my B.E. degree in Computer Science and Technology from [Northeastern University](http://www.neu.edu.cn) in 2022.
+Prior to that, I received my B.E. degree in Computer Science and Technology from [Northeastern University(NEU,China)](http://www.neu.edu.cn) in 2022.
 
 Email: yhzhang@mail.ustc.edu.cn 
 <!-- Github: https://github.com/Octopus-Detective/-->
