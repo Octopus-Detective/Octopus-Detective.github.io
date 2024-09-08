@@ -32,12 +32,13 @@ Email: yhzhang@mail.ustc.edu.cn
 
 # 💻 Internships
 * __*2019.09 - 2021.04*, [The Ministry of Education Key Laboratory of Medical Imaging Computing](http://kyy.neu.edu.cn/2020/0410/c7035a167742/page.htm), Shenyang, China__
-- Research Assistant(Guided by Professor [Jinzhu Yang](http://www.cse.neu.edu.cn/2019/0312/c6641a157518/page.htm))
+  - Research Assistant(Guided by Professor [Jinzhu Yang](http://www.cse.neu.edu.cn/2019/0312/c6641a157518/page.htm))
 * __*2020.04 - 2021.08*, [NEU iDC Group ](https://idc-neu.github.io/), Shenyang, China__
-- Research Assistant(Guided by Professor [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/))
+  - Research Assistant(Guided by Professor [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/))
 
 # 🎖 Honors and Awards
-* *2022.09*: 1st Class Academic Scholarship, USTC
+* *2023.09*: 1st Class Academic Scholarship for Master, USTC
+* *2022.09*: 1st Class Academic Scholarship for Master, USTC
 * *2022.06*: Outstanding Graduate of Liaoning Province (Top 3%)
 
 # 📖 Educations
