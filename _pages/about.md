@@ -21,7 +21,7 @@ I am currently a joint PhD student of [University of Science and Technology of C
 
 Prior to that, I received my B.E. degree in Computer Science and Technology from [Northeastern University(NEU, China)](http://www.neu.edu.cn) in 2022.
 
-📧 Email: <yhzhang@mail.ustc.edu.cn> and <Astro.Zhang@my.cityu.edu.hk>
+📧 Email: <yhzhang@mail.ustc.edu.cn>/<Yuhang.Zhang@my.cityu.edu.hk>
 <!-- Github: https://github.com/Octopus-Detective/-->
 
 
