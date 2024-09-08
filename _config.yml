@@ -24,8 +24,8 @@ author:
   name             : "Yuhang Zhang"
   avatar           : "images/profile24.jpg"
   bio              : "PhD Student in Computer Science"
-  location         : "HongKong, China." 
-  employer         : "USTC+CityU"
+  location         : #"HongKong, China." 
+  employer         : #"USTC+CityU"
   pubmed           : 
   googlescholar    : # ""
   email            : #"yhzhang@mail.ustc.edu.cn"
