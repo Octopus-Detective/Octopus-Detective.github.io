@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current joint PhD student majoring in computer science at the [University of Science and Technology of China (USTC)](https://www.cs.ustc.edu.cn) and [City University of Hong Kong (CityU)](https://www.cs.cityu.edu.hk), co-supervised by [Prof. Qi Song](https://songqi1990.github.io/) and [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/). Also, I'm a member of [Lab for Intelligent Networking and Knowledge Engineering (LINKE)](https://linke.ustc.edu.cn/main.htm). My current research interests are Multimodal Computing and AI4Science, and I was involved in robotics and affective computing for more than a year before turning into a PhD.
+I am currently a joint PhD of [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn) and [City University of Hong Kong (CityU)](https://www.cityu.edu.hk), co-supervised by [Prof. Qi Song](https://songqi1990.github.io/) and [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/). Also, I'm a member of [Lab for Intelligent Networking and Knowledge Engineering (LINKE)](https://linke.ustc.edu.cn/main.htm). My current research interests are Multimodal Computing and AI4Science, and I was involved in robotics and affective computing for more than a year before turning into a PhD.
 
 Prior to USTC, I received my B.S. degree from the [School of Computer Science and Enginerring](http://www.cse.neu.edu.cn/) at [Northeastern University](http://www.neu.edu.cn/).
 
@@ -39,9 +39,11 @@ Email: yhzhang@mail.ustc.edu.cn
 * *2022.06*: Outstanding Graduate of Liaoning Province (Top 3%)
 
 # 📖 Educations
-* *2024.09 - now*, Joint PhD, Computer Science, City University of HongKong, HongKong, China
-* *2022.09 - now*, PhD Candidate, Computer Science and Technology, University of Science and Technology of China, Hefei, China
-* *2018.09 - 2022.06*, B.E., Computer Science and Technology, Northeastern University, Shenyang, China
-
+## *2024.09 - now*, City University of HongKong
+*  Joint PhD in Computer Science, [Department of Computer Science](https://www.cs.cityu.edu.hk/) 
+## *2022.09 - now*,University of Science and Technology of China
+*  PhD in Computer Science and Technology, [School of Computer Science and Technology](https://www.cs.ustc.edu.cn)
+## *2018.09 - 2022.06*, Northeastern University
+*  B.E. in Computer Science and Technology, [School of Computer Science and Engineer](http://www.cse.neu.edu.cn/)
 
 
