@@ -47,7 +47,7 @@ Email: yhzhang@mail.ustc.edu.cn
 * __*2024.09 - now*, City University of HongKong__
   - Joint PhD in Computer Science
   - [Department of Computer Science](https://www.cs.cityu.edu.hk/) 
-* __*2022.09 - now*,University of Science and Technology of China__
+* __*2022.09 - now*, University of Science and Technology of China__
   - PhD in Computer Science and Technology
   - [School of Computer Science and Technology](https://www.cs.ustc.edu.cn)
 * __*2018.09 - 2022.06*, Northeastern University__
