@@ -39,11 +39,11 @@ Email: yhzhang@mail.ustc.edu.cn
 * *2022.06*: Outstanding Graduate of Liaoning Province (Top 3%)
 
 # 📖 Educations
-## *2024.09 - now*, City University of HongKong
-*  Joint PhD in Computer Science, [Department of Computer Science](https://www.cs.cityu.edu.hk/) 
-## *2022.09 - now*,University of Science and Technology of China
-*  PhD in Computer Science and Technology, [School of Computer Science and Technology](https://www.cs.ustc.edu.cn)
-## *2018.09 - 2022.06*, Northeastern University
-*  B.E. in Computer Science and Technology, [School of Computer Science and Engineer](http://www.cse.neu.edu.cn/)
+* __*2024.09 - now*, City University of HongKong__
+\quad  Joint PhD in Computer Science, [Department of Computer Science](https://www.cs.cityu.edu.hk/) 
+* __*2022.09 - now*,University of Science and Technology of China__
+\quad  PhD in Computer Science and Technology, [School of Computer Science and Technology](https://www.cs.ustc.edu.cn)
+* __*2018.09 - 2022.06*, Northeastern University__
+\quad  B.E. in Computer Science and Technology, [School of Computer Science and Engineer](http://www.cse.neu.edu.cn/)
 
 
