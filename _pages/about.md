@@ -33,7 +33,7 @@ Prior to that, I received my B.E. degree in Computer Science and Technology from
 # 💻 Internships
 * __*2024.03 - 2024.04*, [iFLYTEK](https://www.iflytek.com/cn/), Hefei, China__
   - Algorithm researcher in AI Lab
-* __*2019.09 - 2021.04*, [The Ministry of Education Key Laboratory of Medical Imaging Computing](http://www.cse.neu.edu.cn/2024/0614/c6289a257704/page.htm), Shenyang, China__
+* __*2019.09 - 2021.04*, [Lab of MIC](http://www.cse.neu.edu.cn/2024/0614/c6289a257704/page.htm), Shenyang, China__
   - Research Assistant(Guided by [Prof. Jinzhu Yang](http://www.cse.neu.edu.cn/2019/0312/c6641a157518/page.htm))
 * __*2020.04 - 2021.08*, [NEU iDC Group](https://idc-neu.github.io/), Shenyang, China__
   - Research Assistant(Guided by [Prof. Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/))
