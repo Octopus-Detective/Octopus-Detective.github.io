@@ -49,7 +49,7 @@ Prior to that, I received my B.E. degree in Computer Science and Technology from
   - [Department of Computer Science](https://www.cs.cityu.edu.hk/) 
 * __*2022.09 - now*, University of Science and Technology of China__
   - PhD in Computer Science and Technology
-  - [School of Computer Science and Technology](https://www.cs.ustc.edu.cn)
+  - [School of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm)
 * __*2018.09 - 2022.06*, Northeastern University__
   - B.E. in Computer Science and Technology
   - [School of Computer Science and Engineer](http://www.cse.neu.edu.cn/)
