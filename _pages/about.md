@@ -28,9 +28,9 @@ Prior to that, I received my B.E. degree in Computer Science and Technology from
 # 🔥 News
 - *2024.09*: <font color=Blue>I am starting my PhD studies in Hong Kong 🇭🇰!</font>
 
-# 📝 Publications
+# 📑 Publications
 
-# 💻 Internships
+# 💼 Internships
 * __*2024.03 - 2024.04*, [iFLYTEK](https://www.iflytek.com/cn/), Hefei, China__
   - Algorithm researcher in AI Lab
 * __*2019.09 - 2021.04*, [Key Lab of MIC](http://www.cse.neu.edu.cn/2024/0614/c6289a257704/page.htm), Shenyang, China__
