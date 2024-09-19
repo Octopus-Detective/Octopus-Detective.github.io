@@ -39,9 +39,9 @@ Prior to that, I received my B.E. degree in Computer Science and Technology from
   - Research Assistant(Guided by [Prof. Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/))
 
 # 🎖 Honors and Awards
-* *2024.09*: 1st Class Academic Scholarship for Postgraduate, USTC
-* *2023.09*: 1st Class Academic Scholarship for Postgraduate, USTC
-* *2022.09*: 1st Class Academic Scholarship for Postgraduate, USTC
+* *2024.09*: 1st Class Academic Scholarship for Postgraduate Students, USTC
+* *2023.09*: 1st Class Academic Scholarship for Postgraduate Students, USTC
+* *2022.09*: 1st Class Academic Scholarship for Postgraduate Students, USTC
 * *2022.06*: Outstanding Graduate of Liaoning Province (Top 3%)
 
 # 📖 Educations
